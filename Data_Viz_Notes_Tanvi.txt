@@ -1,0 +1,11 @@
+1. This is a first class of Data Vizualization. We are gonna learn some part of tableu and more of Data vizualization. This class will focus more on practical projects than theory.
+
+2. What is Data Vizualization? 
+Data Vizualization is to vizualize data and convey the information in a way that non-technical people can understand technical charts, tables, graphs etc. 
+
+3. Students from this class expect to learn data vizualization and data analytics tools, so that we can learn how to convert data into meaningful information. Also, I want to gain knowledge about all the required skills, what organizations expect from us and want to learn the same. 
+
+4. We created an account on github where all our assignments for this course will be uploaded. 
+
+
+
